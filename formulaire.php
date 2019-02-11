@@ -9,7 +9,6 @@
 	<form action="secret.php" method="POST">
 		<p> Please enter your Name  
 			<input type="text" name="idlogin" />
-			<input type="submit" name="valider" />
 		</p>
 
 		<p> Please enter the password
