@@ -7,8 +7,13 @@
 <body>
 	
 	<form action="secret.php" method="POST">
-		<p> Enter the password
-			<input type="text" name="password" />
+		<p> Please enter your Name  
+			<input type="text" name="idlogin" />
+			<input type="submit" name="valider" />
+		</p>
+
+		<p> Please enter the password
+			<input type="password" name="password" />
 			<input type="submit" name="valider" />
 		</p>
 	</form>
